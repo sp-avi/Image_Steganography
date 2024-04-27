@@ -8,9 +8,9 @@ Steganography is the practice of concealing a file, message, image, or video wit
 
 Here in this code we give image and text to be concealed in an image and press *Encode*. To  retrieve the data press *Decode*.
 ## Encode Preview:
-![alt text](https://github.com/Helium-He/Image-Steganography/raw/master/Image%20Steganography/raw/Encode.gif)
+![alt text](https://github.com/sp-avi/Image-Steganography/blob/main/Image%20Steganography/raw/Encode.gif)
 ## Decode Preview:
-![alt text](https://github.com/Helium-He/Image-Steganography/raw/master/Image%20Steganography/raw/Decode.gif)
+![alt text](https://github.com/sp-avi/Image-Steganography/blob/main/Image%20Steganography/raw/Decode.gif)
  
  ## Requirements
  * Python
